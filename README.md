@@ -4,6 +4,7 @@ Welcome to the WHMCS “Six” template repository!  This repository is dedicate
 
 ## Compatibility
 
+
 This theme is compatible with WHMCS 6.0 and later.
 
 ## Usage
