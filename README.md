@@ -4,12 +4,7 @@ Welcome to the WHMCS “Six” template repository!  This repository is dedicate
 
 ## Compatibility
 
-<<<<<<< HEAD
- 
-=======
-This is test 
-Test
->>>>>>> 47df4ab13a9596d44b871b1b2335a8a9b015f4a5
+
 This theme is compatible with WHMCS 6.0 and later.
 
 ## Usage
@@ -23,7 +18,7 @@ You may fork this repository as described in the
 [GitHub Bootcamp: Forking a Repo](https://help.github.com/articles/fork-a-repo/) articles.
 
 ### Command Line Usage
-
+This is test
 The below is an example of how you might check this repository out locally into a custom folder and create a branch for building and tracking the changes for your custom theme:
 
 ```sh
